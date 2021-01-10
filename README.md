@@ -1,3 +1,6 @@
+# Live Demo Link
+you can view this webpage in action by clicking [here](https://haris-afzal.github.io/ToDoList/)
+
 # ToDoList
 This is a responsive webpage template designed to mimic a to-do list. 
 * It uses HTML, Javascript to add functionality and CSS for styling.
